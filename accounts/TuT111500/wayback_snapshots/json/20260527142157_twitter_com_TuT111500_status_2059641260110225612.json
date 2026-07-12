@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2059471297932075021",
+    "created_at": "2026-05-27T14:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059641260110225612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996918310349557762",
+          "start": 0,
+          "username": "Guli1817513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059641260110225612",
+    "in_reply_to_user_id": "1996918310349557762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059471297932075021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guli1817513 张雪峰老师，我还记得你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2059471297932075021",
+        "created_at": "2026-05-27T14:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059641260110225612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996918310349557762",
+              "start": 0,
+              "username": "Guli1817513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059641260110225612",
+        "in_reply_to_user_id": "1996918310349557762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059471297932075021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guli1817513 张雪峰老师，我还记得你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996918310349557762",
+        "conversation_id": "2059471297932075021",
+        "created_at": "2026-05-27T03:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059471297932075021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059471297932075021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8354,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，张雪峰这个逼在我生日那天死的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 9,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 125
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:23:39.000Z",
+        "description": "幸福就好了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guli33050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guli33050",
+                "start": 0,
+                "url": "https://t.co/vFNHmjljcQ"
+              }
+            ]
+          }
+        },
+        "id": "1996918310349557762",
+        "location": "合肥",
+        "name": "Guli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057270374472028160/Z3qJUpTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 107,
+          "like_count": 2776,
+          "listed_count": 0,
+          "media_count": 672,
+          "tweet_count": 4350
+        },
+        "url": "https://t.co/vFNHmjljcQ",
+        "username": "Guli1817513",
+        "verified": false
+      }
+    ]
+  }
+}

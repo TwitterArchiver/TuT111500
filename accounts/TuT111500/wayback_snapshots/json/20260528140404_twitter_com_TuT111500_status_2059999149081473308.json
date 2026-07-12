@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2059653021639098821",
+    "created_at": "2026-05-28T14:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059999149081473308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1008615379885670400",
+          "start": 0,
+          "username": "zhinarensml8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059999149081473308",
+    "in_reply_to_user_id": "1008615379885670400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059653021639098821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarensml8964 谁绷得住？😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 588,
+        "media_key": "3_2059653000160055296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVbfbsbkAAH0zs.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2059653021639098821",
+        "created_at": "2026-05-28T14:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059999149081473308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1008615379885670400",
+              "start": 0,
+              "username": "zhinarensml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059999149081473308",
+        "in_reply_to_user_id": "1008615379885670400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059653021639098821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensml8964 谁绷得住？😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059653000160055296"
+          ]
+        },
+        "author_id": "1008615379885670400",
+        "conversation_id": "2059653021639098821",
+        "created_at": "2026-05-27T15:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059653021639098821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8KNaK5otZ",
+              "end": 36,
+              "expanded_url": "https://x.com/zhinarensml8964/status/2059653021639098821/photo/1",
+              "media_key": "3_2059653000160055296",
+              "start": 13,
+              "url": "https://t.co/a8KNaK5otZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059653021639098821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 88043,
+          "like_count": 988,
+          "quote_count": 5,
+          "reply_count": 196,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "这又是哪个平行世界的中国 https://t.co/a8KNaK5otZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "location": "纯绿🚪188 只回口令 ",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 15,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 134
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-18T07:40:20.000Z",
+        "description": "新教旨支黑，只辱支不精日。不清真的猪肉爱好者，目前正在学习外语以及研究日本帝国，大韩民国独裁时期和以色列国的历史。喜欢大文豪三岛由纪夫\n一代目@zhinarencnm8964\n三代目@zhinarensb8964\n四代目@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1008615379885670400",
+        "location": "支那人民共和国",
+        "name": "萨麦尔之子✡️🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054311077811556352/SHVwh_ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 975,
+          "like_count": 38993,
+          "listed_count": 6,
+          "media_count": 650,
+          "tweet_count": 3401
+        },
+        "username": "zhinarensml8964",
+        "verified": false
+      }
+    ]
+  }
+}

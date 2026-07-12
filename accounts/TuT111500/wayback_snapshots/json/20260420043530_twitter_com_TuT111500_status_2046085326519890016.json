@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046085252490407936"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "conversation_id": "2046085326519890016",
+    "created_at": "2026-04-20T04:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046085326519890016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VxNFNsngkL",
+          "end": 23,
+          "expanded_url": "https://x.com/TuT111500/status/2046085326519890016/video/1",
+          "media_key": "13_2046085252490407936",
+          "start": 0,
+          "url": "https://t.co/VxNFNsngkL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046085326519890016",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/VxNFNsngkL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4200,
+        "height": 720,
+        "media_key": "13_2046085252490407936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046085252490407936/img/yPMBSYpLbJ_N8R_u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046085252490407936/vid/avc1/480x270/ixd6lOw135Vg8Lt4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046085252490407936/vid/avc1/640x360/cyRV-DTfvPPuSSwN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046085252490407936/vid/avc1/1280x720/yqFpB7QKYI6RQ7Iu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046085252490407936/pl/Kml3HdCVgIgYj6VH.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046085252490407936"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "conversation_id": "2046085326519890016",
+        "created_at": "2026-04-20T04:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046085326519890016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VxNFNsngkL",
+              "end": 23,
+              "expanded_url": "https://x.com/TuT111500/status/2046085326519890016/video/1",
+              "media_key": "13_2046085252490407936",
+              "start": 0,
+              "url": "https://t.co/VxNFNsngkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046085326519890016",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VxNFNsngkL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "我爱你们",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040519647276212224/xHrNqbRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 10,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 68
+        },
+        "username": "TuT111500",
+        "verified": false
+      }
+    ]
+  }
+}

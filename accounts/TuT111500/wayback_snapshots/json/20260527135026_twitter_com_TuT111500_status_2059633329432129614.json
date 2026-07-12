@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059417292694327301"
+      ],
+      "media_source_tweet_id": [
+        "2059417299338113409"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "conversation_id": "2059633329432129614",
+    "created_at": "2026-05-27T13:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059633329432129614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1736823156063477761",
+          "start": 3,
+          "username": "x_xxxxxxxx11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fxRvcI3OLg",
+          "end": 41,
+          "expanded_url": "https://x.com/x_xxxxxxxx11/status/2059417299338113409/photo/1",
+          "media_key": "3_2059417292694327301",
+          "start": 18,
+          "url": "https://t.co/fxRvcI3OLg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059633329432129614",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059417299338113409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_xxxxxxxx11: https://t.co/fxRvcI3OLg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059417292694327301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSFHc9XkAUzhJA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059417292694327301"
+          ],
+          "media_source_tweet_id": [
+            "2059417299338113409"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "conversation_id": "2059633329432129614",
+        "created_at": "2026-05-27T13:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059633329432129614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1736823156063477761",
+              "start": 3,
+              "username": "x_xxxxxxxx11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxRvcI3OLg",
+              "end": 41,
+              "expanded_url": "https://x.com/x_xxxxxxxx11/status/2059417299338113409/photo/1",
+              "media_key": "3_2059417292694327301",
+              "start": 18,
+              "url": "https://t.co/fxRvcI3OLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059633329432129614",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059417299338113409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_xxxxxxxx11: https://t.co/fxRvcI3OLg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059417292694327301"
+          ]
+        },
+        "author_id": "1736823156063477761",
+        "conversation_id": "2059417299338113409",
+        "created_at": "2026-05-26T23:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059417299338113409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxRvcI3OLg",
+              "end": 23,
+              "expanded_url": "https://x.com/x_xxxxxxxx11/status/2059417299338113409/photo/1",
+              "media_key": "3_2059417292694327301",
+              "start": 0,
+              "url": "https://t.co/fxRvcI3OLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059417299338113409",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 4725,
+          "like_count": 369,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fxRvcI3OLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 10,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 122
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T18:58:11.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mohawk",
+                "end": 23,
+                "expanded_url": "http://instagram.com/mohawk",
+                "start": 0,
+                "url": "https://t.co/zqOJNy5Hvh"
+              }
+            ]
+          }
+        },
+        "id": "1736823156063477761",
+        "name": "promise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057082032866410496/mkrlVXC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 61,
+          "like_count": 6495,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/zqOJNy5Hvh",
+        "username": "x_xxxxxxxx11",
+        "verified": false
+      }
+    ]
+  }
+}

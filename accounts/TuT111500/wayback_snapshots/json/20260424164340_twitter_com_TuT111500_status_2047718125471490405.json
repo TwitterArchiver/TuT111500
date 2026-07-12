@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2047718125471490405",
+    "created_at": "2026-04-24T16:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047718125471490405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "ovoTvTo3o7777u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047718125471490405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046997730749554793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovoTvTo3o7777u: 有些人你知道你为啥幸福吗？因为我在替你受罪，操你妈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2047718125471490405",
+        "created_at": "2026-04-24T16:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047718125471490405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "ovoTvTo3o7777u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047718125471490405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046997730749554793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovoTvTo3o7777u: 有些人你知道你为啥幸福吗？因为我在替你受罪，操你妈的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2046997730749554793",
+        "created_at": "2026-04-22T17:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046997730749554793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046997730749554793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 26234,
+          "like_count": 1219,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "有些人你知道你为啥幸福吗？因为我在替你受罪，操你妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "我爱你们",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046085496640827392/bDZpH7kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 9,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 82
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 69,
+          "like_count": 3149,
+          "listed_count": 3,
+          "media_count": 409,
+          "tweet_count": 5324
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "ovoTvTo3o7777u",
+        "verified": false
+      }
+    ]
+  }
+}

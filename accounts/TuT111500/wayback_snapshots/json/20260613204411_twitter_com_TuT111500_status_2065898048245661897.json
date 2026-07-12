@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2065895968105710006",
+    "created_at": "2026-06-13T20:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T21:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065898048245661897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060713625522966528",
+          "start": 0,
+          "username": "Ruick37c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065898048245661897",
+    "in_reply_to_user_id": "2060713625522966528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065895968105710006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruick37c 🤭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2065895968105710006",
+        "created_at": "2026-06-13T20:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065898048245661897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060713625522966528",
+              "start": 0,
+              "username": "Ruick37c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065898048245661897",
+        "in_reply_to_user_id": "2060713625522966528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065895968105710006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruick37c 🤭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060713625522966528",
+        "conversation_id": "2065895968105710006",
+        "created_at": "2026-06-13T20:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065895968105710006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065895968105710006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没意淫前任了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 33,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 176
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T13:27:59.000Z",
+        "description": "唉",
+        "id": "2060713625522966528",
+        "location": "🚪88 只回复口令 纯绿谢谢",
+        "name": "Ruic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065895848685522944/v3MPU77r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "username": "Ruick37c",
+        "verified": false
+      }
+    ]
+  }
+}

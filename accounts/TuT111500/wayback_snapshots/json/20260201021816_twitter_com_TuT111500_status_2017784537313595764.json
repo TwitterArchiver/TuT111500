@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2017784537313595764",
+    "created_at": "2026-02-01T02:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T03:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017784537313595764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1558483143828578304",
+          "start": 3,
+          "username": "xiaoyoumanbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017784537313595764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017419183546380572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyoumanbu: 我感觉叫哥哥比叫爸爸还要骚......."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2017784537313595764",
+        "created_at": "2026-02-01T02:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T03:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017784537313595764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1558483143828578304",
+              "start": 3,
+              "username": "xiaoyoumanbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017784537313595764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017419183546380572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyoumanbu: 我感觉叫哥哥比叫爸爸还要骚......."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558483143828578304",
+        "conversation_id": "2017419183546380572",
+        "created_at": "2026-01-31T02:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017419183546380572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017419183546380572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 169997,
+          "like_count": 948,
+          "quote_count": 14,
+          "reply_count": 65,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉叫哥哥比叫爸爸还要骚......."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "🚪zfb口令52/88/188无上限 喜欢我可以给我转钱^ ^",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010421514244415488/qbFQ4Mz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 34
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T15:58:46.000Z",
+        "description": "随便发发/研一/碎碎念/无门槛/不接推广/",
+        "id": "1558483143828578304",
+        "name": "小尤漫步",
+        "pinned_tweet_id": "2017183576895246433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988998064061747200/a9cdMUJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18529,
+          "following_count": 156,
+          "like_count": 2387,
+          "listed_count": 20,
+          "media_count": 113,
+          "tweet_count": 1401
+        },
+        "username": "xiaoyoumanbu",
+        "verified": false
+      }
+    ]
+  }
+}

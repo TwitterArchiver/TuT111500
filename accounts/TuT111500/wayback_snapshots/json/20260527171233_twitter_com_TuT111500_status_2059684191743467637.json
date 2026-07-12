@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2059684191743467637",
+    "created_at": "2026-05-27T17:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059684191743467637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1447499448649601025",
+          "start": 3,
+          "username": "LVTGW666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059684191743467637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049084579383013703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LVTGW666: 不得不说，我兄弟这名起的确实好，以前是习禁评，现在又是习禁躺平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2059684191743467637",
+        "created_at": "2026-05-27T17:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059684191743467637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1447499448649601025",
+              "start": 3,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059684191743467637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049084579383013703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LVTGW666: 不得不说，我兄弟这名起的确实好，以前是习禁评，现在又是习禁躺平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1447499448649601025",
+        "conversation_id": "2049084579383013703",
+        "created_at": "2026-04-28T11:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049084579383013703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049084579383013703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 62592,
+          "like_count": 1224,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "不得不说，我兄弟这名起的确实好，以前是习禁评，现在又是习禁躺平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "location": "纯绿🚪52/188 只回口令 ",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 15,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 127
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71323,
+          "following_count": 924,
+          "like_count": 14589,
+          "listed_count": 306,
+          "media_count": 5123,
+          "tweet_count": 12449
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

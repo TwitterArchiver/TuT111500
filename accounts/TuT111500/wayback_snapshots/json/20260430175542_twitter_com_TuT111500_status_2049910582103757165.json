@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2049910582103757165",
+    "created_at": "2026-04-30T17:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049910582103757165"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049910582103757165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好想念一个叫普瑞巴林的药片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2049910582103757165",
+        "created_at": "2026-04-30T17:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049910582103757165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049910582103757165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想念一个叫普瑞巴林的药片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046085496640827392/bDZpH7kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 13,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 89
+        },
+        "username": "TuT111500",
+        "verified": false
+      }
+    ]
+  }
+}

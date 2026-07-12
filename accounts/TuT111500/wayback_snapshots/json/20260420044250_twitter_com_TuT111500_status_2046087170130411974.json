@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2046087170130411974",
+    "created_at": "2026-04-20T04:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046087170130411974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2014723682548224000",
+          "start": 3,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046087170130411974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045448186253496445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FanQie_CaoDamn: 健全逼談戀愛：牽手逛街看電影\n餐券逼談戀愛：操逼哦滴改花刀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2046087170130411974",
+        "created_at": "2026-04-20T04:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046087170130411974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2014723682548224000",
+              "start": 3,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046087170130411974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045448186253496445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FanQie_CaoDamn: 健全逼談戀愛：牽手逛街看電影\n餐券逼談戀愛：操逼哦滴改花刀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014723682548224000",
+        "conversation_id": "2045448186253496445",
+        "created_at": "2026-04-18T10:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045448186253496445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045448186253496445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4888,
+          "like_count": 112,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "健全逼談戀愛：牽手逛街看電影\n餐券逼談戀愛：操逼哦滴改花刀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "我爱你们",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046085496640827392/bDZpH7kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 9,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 70
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "11年 順女  LGBTQ全友好   查成分 藍v互關 會亂追人（？）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/UWYWscoHis"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "🚪",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2027179646979334157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 692,
+          "like_count": 10171,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3372
+        },
+        "url": "https://t.co/UWYWscoHis",
+        "username": "FanQie_CaoDamn",
+        "verified": true
+      }
+    ]
+  }
+}

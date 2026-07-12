@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052079656946307072"
+      ],
+      "media_source_tweet_id": [
+        "2052079660918268020"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052426872395575544",
+    "created_at": "2026-05-07T16:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052426872395575544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2015254777593044992",
+          "start": 3,
+          "username": "lacunaist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X0zfYJ0pW8",
+          "end": 38,
+          "expanded_url": "https://x.com/lacunaist/status/2052079660918268020/photo/1",
+          "media_key": "3_2052079656946307072",
+          "start": 15,
+          "url": "https://t.co/X0zfYJ0pW8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052426872395575544",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 456
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052079660918268020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lacunaist: https://t.co/X0zfYJ0pW8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 625,
+        "media_key": "3_2052079656946307072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpzk1sXEAAkq1o.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052079656946307072"
+          ],
+          "media_source_tweet_id": [
+            "2052079660918268020"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052426872395575544",
+        "created_at": "2026-05-07T16:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052426872395575544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2015254777593044992",
+              "start": 3,
+              "username": "lacunaist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0zfYJ0pW8",
+              "end": 38,
+              "expanded_url": "https://x.com/lacunaist/status/2052079660918268020/photo/1",
+              "media_key": "3_2052079656946307072",
+              "start": 15,
+              "url": "https://t.co/X0zfYJ0pW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052426872395575544",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 456
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052079660918268020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lacunaist: https://t.co/X0zfYJ0pW8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052079656946307072"
+          ]
+        },
+        "author_id": "2015254777593044992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052079660918268020",
+        "created_at": "2026-05-06T17:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052079660918268020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0zfYJ0pW8",
+              "end": 23,
+              "expanded_url": "https://x.com/lacunaist/status/2052079660918268020/photo/1",
+              "media_key": "3_2052079656946307072",
+              "start": 0,
+              "url": "https://t.co/X0zfYJ0pW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052079660918268020",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 21250,
+          "like_count": 2444,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 456
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X0zfYJ0pW8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046085496640827392/bDZpH7kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 13,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 101
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T02:46:34.000Z",
+        "description": "⠀⠀ ⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ jester⠀⠀ privilege \n⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╋━",
+        "id": "2015254777593044992",
+        "location": "dumb,  snot girl ⛤ 25 ",
+        "name": "⋮ neural𝒾nk",
+        "pinned_tweet_id": "2041938969471111542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051516621651333120/qrUWt6NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 279,
+          "like_count": 34000,
+          "listed_count": 7,
+          "media_count": 965,
+          "tweet_count": 9234
+        },
+        "username": "lacunaist",
+        "verified": false
+      }
+    ]
+  }
+}

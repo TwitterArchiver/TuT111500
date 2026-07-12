@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2037800944935768436",
+    "created_at": "2026-03-28T18:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T19:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037955188435415452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2029139367995076608",
+          "start": 0,
+          "username": "vunnjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037955188435415452",
+    "in_reply_to_user_id": "2029139367995076608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037800944935768436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vunnjg 气哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2037800944935768436",
+        "created_at": "2026-03-28T18:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T19:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037955188435415452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2029139367995076608",
+              "start": 0,
+              "username": "vunnjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037955188435415452",
+        "in_reply_to_user_id": "2029139367995076608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037800944935768436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vunnjg 气哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029139367995076608",
+        "conversation_id": "2037800944935768436",
+        "created_at": "2026-03-28T07:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037800944935768436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037800944935768436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死妈地雷女餐券妹不是原生家庭不好吗，集美天天卖惨怎么老父老母还几千几千的转账买日牌啊。好秀啊好秀啊，什么时候死全家😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "喜欢我就多给我点钱让我生活更好",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036846368636153856/rXAdJUpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 6,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 48
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T10:21:48.000Z",
+        "description": "爱嗑药的傻逼喜欢无差别攻击｜可互fo直fo会查成分",
+        "id": "2029139367995076608",
+        "location": "日本",
+        "name": "一直操到han变黑（反od）",
+        "pinned_tweet_id": "2029345765588648192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036347725193871360/RS3lIIPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 80,
+          "like_count": 2961,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2185
+        },
+        "username": "vunnjg",
+        "verified": false
+      }
+    ]
+  }
+}

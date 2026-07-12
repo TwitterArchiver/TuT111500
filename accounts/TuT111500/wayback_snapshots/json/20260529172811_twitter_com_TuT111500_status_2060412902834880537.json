@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2060412902834880537",
+    "created_at": "2026-05-29T17:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060412902834880537"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060412902834880537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "兄弟们，熬夜好是好，有点累是怎么回事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2060412902834880537",
+        "created_at": "2026-05-29T17:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060412902834880537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060412902834880537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，熬夜好是好，有点累是怎么回事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "location": "纯绿🚪188 只回口令 ",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 16,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 141
+        },
+        "username": "TuT111500",
+        "verified": false
+      }
+    ]
+  }
+}

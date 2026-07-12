@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2059341281558516182",
+    "created_at": "2026-05-27T15:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059655463759945906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012770534493466624",
+          "start": 0,
+          "username": "Yoni84050681159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059655463759945906",
+    "in_reply_to_user_id": "2012770534493466624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059341281558516182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoni84050681159 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2059341281558516182",
+        "created_at": "2026-05-27T15:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059655463759945906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012770534493466624",
+              "start": 0,
+              "username": "Yoni84050681159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059655463759945906",
+        "in_reply_to_user_id": "2012770534493466624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059341281558516182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoni84050681159 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012770534493466624",
+        "conversation_id": "2059341281558516182",
+        "created_at": "2026-05-26T18:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059341281558516182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059341281558516182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中抖大部分人都很刻薄 把刻薄当个性 我每次看到没人情味的评论我都会下意识觉得这个世界完蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 9,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 126
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T06:14:35.000Z",
+        "description": "我只是一个普通老百姓\n喜欢我请给我打钱",
+        "id": "2012770534493466624",
+        "name": "Yuiowx",
+        "pinned_tweet_id": "2046047845531152820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056804212751618048/5-bseax5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 8,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 125
+        },
+        "username": "Yoni84050681159",
+        "verified": false
+      }
+    ]
+  }
+}

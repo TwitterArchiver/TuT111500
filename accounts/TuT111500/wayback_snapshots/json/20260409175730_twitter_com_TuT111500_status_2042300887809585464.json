@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2042278868024008870",
+    "created_at": "2026-04-09T17:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042300887809585464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1604763406669684737",
+          "start": 0,
+          "username": "shundebo__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042300887809585464",
+    "in_reply_to_user_id": "1604763406669684737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042278868024008870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shundebo__ 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2042278868024008870",
+        "created_at": "2026-04-09T17:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042300887809585464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1604763406669684737",
+              "start": 0,
+              "username": "shundebo__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042300887809585464",
+        "in_reply_to_user_id": "1604763406669684737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042278868024008870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shundebo__ 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604763406669684737",
+        "conversation_id": "2042278868024008870",
+        "created_at": "2026-04-09T16:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042278868024008870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042278868024008870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2368,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊\n有人理我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "欢迎大家找我互fo^_^",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040519647276212224/xHrNqbRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 9,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 64
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T09:00:18.000Z",
+        "description": "@shundebo__se\n🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝JSR  aziwa'ninndro\nshundebo@shundebo.top/\n我是抖m我是杂鱼\nhttps://t.co/pYxaD2CL8R\nINTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "shundebo__se"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/aziwaninndroic…",
+                "end": 98,
+                "expanded_url": "http://t.me/aziwaninndroichi",
+                "start": 75,
+                "url": "https://t.co/pYxaD2CL8R"
+              }
+            ]
+          }
+        },
+        "id": "1604763406669684737",
+        "location": "schlen地",
+        "name": "shundebo",
+        "pinned_tweet_id": "1989666656889835547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022848904992296960/kyURG7Cr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 559,
+          "like_count": 5104,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 1548
+        },
+        "username": "shundebo__",
+        "verified": false
+      }
+    ]
+  }
+}

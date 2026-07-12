@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2063672044282347991",
+    "created_at": "2026-06-07T22:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T23:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063757453838459241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990905104334270466",
+          "start": 0,
+          "username": "wwww1338143"
+        },
+        {
+          "end": 29,
+          "id": "1575765089030139905",
+          "start": 13,
+          "username": "wodanggangqiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063757453838459241",
+    "in_reply_to_user_id": "1990905104334270466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063708658366861315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwww1338143 @wodanggangqiang 你被操傻了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2063672044282347991",
+        "created_at": "2026-06-07T22:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T23:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063757453838459241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990905104334270466",
+              "start": 0,
+              "username": "wwww1338143"
+            },
+            {
+              "end": 29,
+              "id": "1575765089030139905",
+              "start": 13,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063757453838459241",
+        "in_reply_to_user_id": "1990905104334270466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063708658366861315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwww1338143 @wodanggangqiang 你被操傻了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990905104334270466",
+        "conversation_id": "2063672044282347991",
+        "created_at": "2026-06-07T19:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063708658366861315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575765089030139905",
+              "start": 0,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063708658366861315",
+        "in_reply_to_user_id": "1575765089030139905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4368,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063672044282347991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodanggangqiang 小孩又不是傻子，凭什么14岁？居然还有人要调到18岁，真是欠操了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 31,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 183
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T22:09:24.000Z",
+        "description": "",
+        "id": "1990905104334270466",
+        "name": "ww ww",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990905204687126528/eZL-k3ta_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 21,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 476
+        },
+        "username": "wwww1338143",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29670,
+          "following_count": 561,
+          "like_count": 36956,
+          "listed_count": 90,
+          "media_count": 10217,
+          "tweet_count": 28094
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

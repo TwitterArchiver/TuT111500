@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073448357843062784"
+      ],
+      "media_source_tweet_id": [
+        "2073448360766484908"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "conversation_id": "2074147663189250396",
+    "created_at": "2026-07-06T15:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074147663189250396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2029404933024563202",
+          "start": 3,
+          "username": "wish4meplease"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vVQ1p9NZ7b",
+          "end": 42,
+          "expanded_url": "https://x.com/wish4meplease/status/2073448360766484908/photo/1",
+          "media_key": "3_2073448357843062784",
+          "start": 19,
+          "url": "https://t.co/vVQ1p9NZ7b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074147663189250396",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4406
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073448360766484908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wish4meplease: https://t.co/vVQ1p9NZ7b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2073448357843062784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZeS71aUAAve4Q.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073448357843062784"
+          ],
+          "media_source_tweet_id": [
+            "2073448360766484908"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "conversation_id": "2074147663189250396",
+        "created_at": "2026-07-06T15:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074147663189250396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2029404933024563202",
+              "start": 3,
+              "username": "wish4meplease"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVQ1p9NZ7b",
+              "end": 42,
+              "expanded_url": "https://x.com/wish4meplease/status/2073448360766484908/photo/1",
+              "media_key": "3_2073448357843062784",
+              "start": 19,
+              "url": "https://t.co/vVQ1p9NZ7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074147663189250396",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4406
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073448360766484908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wish4meplease: https://t.co/vVQ1p9NZ7b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073448357843062784"
+          ]
+        },
+        "author_id": "2029404933024563202",
+        "conversation_id": "2073448360766484908",
+        "created_at": "2026-07-04T16:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073448360766484908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVQ1p9NZ7b",
+              "end": 23,
+              "expanded_url": "https://x.com/wish4meplease/status/2073448360766484908/photo/1",
+              "media_key": "3_2073448357843062784",
+              "start": 0,
+              "url": "https://t.co/vVQ1p9NZ7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073448360766484908",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8976,
+          "impression_count": 1140874,
+          "like_count": 48000,
+          "quote_count": 319,
+          "reply_count": 111,
+          "retweet_count": 4406
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vVQ1p9NZ7b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072740772819210241/eMNJx58-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 31,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T03:53:45.000Z",
+        "description": "",
+        "id": "2029404933024563202",
+        "name": "⃟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059349291437834241/Tchs_NMQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 111,
+          "like_count": 996,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "wish4meplease",
+        "verified": false
+      }
+    ]
+  }
+}

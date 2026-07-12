@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2060883636040409124",
+    "created_at": "2026-05-31T07:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060981455451484444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060713625522966528",
+          "start": 0,
+          "username": "Ruick37c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060981455451484444",
+    "in_reply_to_user_id": "2060713625522966528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060883636040409124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruick37c 你老公养胃了怎么办呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2060883636040409124",
+        "created_at": "2026-05-31T07:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060981455451484444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060713625522966528",
+              "start": 0,
+              "username": "Ruick37c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060981455451484444",
+        "in_reply_to_user_id": "2060713625522966528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060883636040409124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruick37c 你老公养胃了怎么办呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060713625522966528",
+        "conversation_id": "2060883636040409124",
+        "created_at": "2026-05-31T00:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060883636040409124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060883636040409124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想每天和和老公做完，老公抱着我去洗澡。想让老公粗暴的对待我，想给我老公当一辈子乖女儿。想让我老公扇我的脸忍不住的想蹭他的手心，靠近他，爽的忍不住呻吟，然后又甩了我一巴掌，更爽了。好想被我老公玩坏，想要我老公疯狂的吻我，在我老公身上留下印记。我要给我老公当一辈子母狗。我爱我老公。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "location": "纯绿🚪188 只回口令 ",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 17,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 146
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T13:27:59.000Z",
+        "description": "唉",
+        "id": "2060713625522966528",
+        "location": "🚪88 只回复口令 纯绿谢谢",
+        "name": "Ruic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060891355497525248/HTJ4BNYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "Ruick37c",
+        "verified": false
+      }
+    ]
+  }
+}

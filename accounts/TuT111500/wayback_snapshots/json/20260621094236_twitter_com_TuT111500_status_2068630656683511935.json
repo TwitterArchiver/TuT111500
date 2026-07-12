@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068406363810594816",
+        "3_2068406363819053056"
+      ],
+      "media_source_tweet_id": [
+        "2068406374485111017",
+        "2068406374485111017"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068630656683511935",
+    "created_at": "2026-06-21T09:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068630656683511935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991620732628201472",
+          "start": 3,
+          "username": "chicatreboll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E6bzVza9a6",
+          "end": 123,
+          "expanded_url": "https://x.com/chicatreboll/status/2068406374485111017/photo/1",
+          "media_key": "3_2068406363810594816",
+          "start": 100,
+          "url": "https://t.co/E6bzVza9a6"
+        },
+        {
+          "display_url": "pic.x.com/E6bzVza9a6",
+          "end": 123,
+          "expanded_url": "https://x.com/chicatreboll/status/2068406374485111017/photo/1",
+          "media_key": "3_2068406363819053056",
+          "start": 100,
+          "url": "https://t.co/E6bzVza9a6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068630656683511935",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1014
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068406374485111017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @chicatreboll: desde que empecé a salir a la calle vestida como me gusta me siento un poco así : https://t.co/E6bzVza9a6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 997,
+        "media_key": "3_2068406363810594816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLR0oQYWgAAc7r_.jpg",
+        "width": 828
+      },
+      {
+        "height": 932,
+        "media_key": "3_2068406363819053056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLR0oQaXkAAQzj3.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068406363810594816",
+            "3_2068406363819053056"
+          ],
+          "media_source_tweet_id": [
+            "2068406374485111017",
+            "2068406374485111017"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068630656683511935",
+        "created_at": "2026-06-21T09:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068630656683511935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991620732628201472",
+              "start": 3,
+              "username": "chicatreboll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6bzVza9a6",
+              "end": 123,
+              "expanded_url": "https://x.com/chicatreboll/status/2068406374485111017/photo/1",
+              "media_key": "3_2068406363810594816",
+              "start": 100,
+              "url": "https://t.co/E6bzVza9a6"
+            },
+            {
+              "display_url": "pic.x.com/E6bzVza9a6",
+              "end": 123,
+              "expanded_url": "https://x.com/chicatreboll/status/2068406374485111017/photo/1",
+              "media_key": "3_2068406363819053056",
+              "start": 100,
+              "url": "https://t.co/E6bzVza9a6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068630656683511935",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1014
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068406374485111017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @chicatreboll: desde que empecé a salir a la calle vestida como me gusta me siento un poco así : https://t.co/E6bzVza9a6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068406363810594816",
+            "3_2068406363819053056"
+          ]
+        },
+        "author_id": "1991620732628201472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068406374485111017",
+        "created_at": "2026-06-20T18:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068406374485111017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6bzVza9a6",
+              "end": 105,
+              "expanded_url": "https://x.com/chicatreboll/status/2068406374485111017/photo/1",
+              "media_key": "3_2068406363810594816",
+              "start": 82,
+              "url": "https://t.co/E6bzVza9a6"
+            },
+            {
+              "display_url": "pic.x.com/E6bzVza9a6",
+              "end": 105,
+              "expanded_url": "https://x.com/chicatreboll/status/2068406374485111017/photo/1",
+              "media_key": "3_2068406363819053056",
+              "start": 82,
+              "url": "https://t.co/E6bzVza9a6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068406374485111017",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 602,
+          "impression_count": 121258,
+          "like_count": 11972,
+          "quote_count": 72,
+          "reply_count": 2,
+          "retweet_count": 1014
+        },
+        "reply_settings": "following",
+        "text": "desde que empecé a salir a la calle vestida como me gusta me siento un poco así : https://t.co/E6bzVza9a6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066198202106384384/T0JkbKkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 34,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T21:32:53.000Z",
+        "description": "˖°ପ(ू ᴗ͈ˬᴗ)ଓ˚",
+        "id": "1991620732628201472",
+        "location": " ",
+        "name": "jiji",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068170230501670912/Q6DLhDF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 423,
+          "like_count": 12826,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 1375
+        },
+        "url": "",
+        "username": "chicatreboll",
+        "verified": false
+      }
+    ]
+  }
+}

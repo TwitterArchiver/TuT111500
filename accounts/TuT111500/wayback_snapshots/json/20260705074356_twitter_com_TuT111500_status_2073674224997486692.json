@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2073673693327511930",
+    "created_at": "2026-07-05T07:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073674224997486692"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073674224997486692",
+    "in_reply_to_user_id": "2008589299659481088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073673693327511930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好崩溃好尴尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2073673693327511930",
+        "created_at": "2026-07-05T07:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073674224997486692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073674224997486692",
+        "in_reply_to_user_id": "2008589299659481088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073673693327511930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好崩溃好尴尬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2073673693327511930",
+        "created_at": "2026-07-05T07:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073673693327511930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073673693327511930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈真的好难受啊我打无畏契约不知道怎么开麦了，然后我一直在自言自语，全部被听到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072740772819210241/eMNJx58-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 31,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      }
+    ]
+  }
+}

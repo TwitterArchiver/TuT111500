@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019450064146513933"
+      ],
+      "media_source_tweet_id": [
+        "2019450072207966281"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "conversation_id": "2019773790285423090",
+    "created_at": "2026-02-06T14:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T15:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019773790285423090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1496182649400008707",
+          "start": 3,
+          "username": "nyaicore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eVOgEIQI7M",
+          "end": 70,
+          "expanded_url": "https://x.com/nyaicore/status/2019450072207966281/photo/1",
+          "media_key": "3_2019450064146513933",
+          "start": 47,
+          "url": "https://t.co/eVOgEIQI7M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019773790285423090",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 413
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019450072207966281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyaicore: look at her !! she’s so cute.. ♡ https://t.co/eVOgEIQI7M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2656,
+        "media_key": "3_2019450064146513933",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAaHIkMXwA0JQTX.jpg",
+        "width": 3984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019450064146513933"
+          ],
+          "media_source_tweet_id": [
+            "2019450072207966281"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "conversation_id": "2019773790285423090",
+        "created_at": "2026-02-06T14:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019773790285423090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1496182649400008707",
+              "start": 3,
+              "username": "nyaicore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVOgEIQI7M",
+              "end": 70,
+              "expanded_url": "https://x.com/nyaicore/status/2019450072207966281/photo/1",
+              "media_key": "3_2019450064146513933",
+              "start": 47,
+              "url": "https://t.co/eVOgEIQI7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019773790285423090",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 413
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019450072207966281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyaicore: look at her !! she’s so cute.. ♡ https://t.co/eVOgEIQI7M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019450064146513933"
+          ]
+        },
+        "author_id": "1496182649400008707",
+        "conversation_id": "2019450072207966281",
+        "created_at": "2026-02-05T16:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019450072207966281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVOgEIQI7M",
+              "end": 56,
+              "expanded_url": "https://x.com/nyaicore/status/2019450072207966281/photo/1",
+              "media_key": "3_2019450064146513933",
+              "start": 33,
+              "url": "https://t.co/eVOgEIQI7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019450072207966281",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 50448,
+          "like_count": 5446,
+          "quote_count": 13,
+          "reply_count": 13,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "look at her !! she’s so cute.. ♡ https://t.co/eVOgEIQI7M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "🚪zfb口令52/88/188无上限 喜欢我可以给我转钱^ ^",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010421514244415488/qbFQ4Mz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 39
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T17:58:47.000Z",
+        "description": "horror catgirl • artist ꒰ ☠️🔪 ꒱ \n\n♡ designs : @littlecorpsee ♱ @cherricries \n♡ ママ : @saga404 ♱ @emoshimoV \n\n꒰ #nyaicore ꒱ ₊ ☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 119,
+                "start": 110,
+                "tag": "nyaicore"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "littlecorpsee"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "cherricries"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "username": "saga404"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "emoshimoV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyami.uwu.ai",
+                "end": 23,
+                "expanded_url": "https://nyami.uwu.ai",
+                "start": 0,
+                "url": "https://t.co/kkmND1jjiL"
+              }
+            ]
+          }
+        },
+        "id": "1496182649400008707",
+        "location": "i : suikarin_ ♡ b : l99ayane",
+        "name": "nyami ♡",
+        "pinned_tweet_id": "2004945528854052990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009564924075208704/RgIc1L3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32636,
+          "following_count": 861,
+          "like_count": 14484,
+          "listed_count": 74,
+          "media_count": 548,
+          "tweet_count": 10480
+        },
+        "url": "https://t.co/kkmND1jjiL",
+        "username": "nyaicore",
+        "verified": true
+      }
+    ]
+  }
+}

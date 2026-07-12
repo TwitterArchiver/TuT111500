@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056065272495452160"
+      ],
+      "media_source_tweet_id": [
+        "2056065332452921507"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "conversation_id": "2058977991536083074",
+    "created_at": "2026-05-25T18:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058977991536083074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1729097634030272512",
+          "start": 3,
+          "username": "pillbottlez"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jXii7Q2QD3",
+          "end": 40,
+          "expanded_url": "https://x.com/pillbottlez/status/2056065332452921507/video/1",
+          "media_key": "13_2056065272495452160",
+          "start": 17,
+          "url": "https://t.co/jXii7Q2QD3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058977991536083074",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 469
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056065332452921507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pillbottlez: https://t.co/jXii7Q2QD3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058977991536083074].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058977991536083074",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058977991536083074"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9683,
+        "height": 902,
+        "media_key": "13_2056065272495452160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056065272495452160/img/mL9ghfWiT5N8tSUW.jpg",
+        "public_metrics": {
+          "view_count": 20613
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056065272495452160/vid/avc1/320x400/7m3SjDCw0kn2TXDB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056065272495452160/vid/avc1/480x600/KmbfRXb8Q1_55ljz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056065272495452160/vid/avc1/720x902/TAVTOsp-1EfuLC7O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056065272495452160/pl/bUyCT2TXd1Q2UY1K.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 9683,
+        "height": 902,
+        "media_key": "13_2056065272495452160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056065272495452160/img/mL9ghfWiT5N8tSUW.jpg",
+        "public_metrics": {
+          "view_count": 20625
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056065272495452160/vid/avc1/320x400/7m3SjDCw0kn2TXDB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056065272495452160/vid/avc1/480x600/KmbfRXb8Q1_55ljz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056065272495452160/vid/avc1/720x902/TAVTOsp-1EfuLC7O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056065272495452160/pl/bUyCT2TXd1Q2UY1K.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056065272495452160"
+          ]
+        },
+        "author_id": "1729097634030272512",
+        "conversation_id": "2056065332452921507",
+        "created_at": "2026-05-17T17:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056065332452921507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jXii7Q2QD3",
+              "end": 23,
+              "expanded_url": "https://x.com/pillbottlez/status/2056065332452921507/video/1",
+              "media_key": "13_2056065272495452160",
+              "start": 0,
+              "url": "https://t.co/jXii7Q2QD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056065332452921507",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 66077,
+          "like_count": 2320,
+          "quote_count": 38,
+          "reply_count": 4,
+          "retweet_count": 469
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jXii7Q2QD3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046085496640827392/bDZpH7kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 10,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 110
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T11:19:56.000Z",
+        "description": "i love title fight",
+        "id": "1729097634030272512",
+        "name": ";x",
+        "pinned_tweet_id": "1990868756613222839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056981396481257472/dv_LPQ_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63511,
+          "following_count": 21,
+          "like_count": 3646,
+          "listed_count": 105,
+          "media_count": 356,
+          "tweet_count": 608
+        },
+        "username": "pillbottlez",
+        "verified": false
+      }
+    ]
+  }
+}

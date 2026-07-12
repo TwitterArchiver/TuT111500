@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000944307264720896"
+      ],
+      "media_source_tweet_id": [
+        "2000944313648472220"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "conversation_id": "2074173232664699206",
+    "created_at": "2026-07-06T16:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074173232664699206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "708229133512237057",
+          "start": 3,
+          "username": "1lazydoll"
+        }
+      ],
+      "urls": [
+        {
+          "description": "アルバム • 2025年 • 13曲 • 26分",
+          "display_url": "linkco.re/sU8NX1dG",
+          "end": 46,
+          "expanded_url": "https://linkco.re/sU8NX1dG",
+          "images": [
+            {
+              "height": 800,
+              "url": "https://pbs.twimg.com/news_img/2069802107885232128/-wUhVEPv?format=jpg&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2069802107885232128/-wUhVEPv?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 23,
+          "status": 200,
+          "title": "absence (不在) by lazydoll",
+          "unwound_url": "https://linkco.re/sU8NX1dG",
+          "url": "https://t.co/1PuwJpDScu"
+        },
+        {
+          "display_url": "pic.x.com/v2NjiTs2Zh",
+          "end": 70,
+          "expanded_url": "https://x.com/1lazydoll/status/2000944313648472220/photo/1",
+          "media_key": "3_2000944307264720896",
+          "start": 47,
+          "url": "https://t.co/v2NjiTs2Zh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074173232664699206",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 231
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000944313648472220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @1lazydoll: アルバム出た\n\nhttps://t.co/1PuwJpDScu https://t.co/v2NjiTs2Zh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2000944307264720896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TIPvnakAA7r2Y.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000944307264720896"
+          ],
+          "media_source_tweet_id": [
+            "2000944313648472220"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "conversation_id": "2074173232664699206",
+        "created_at": "2026-07-06T16:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074173232664699206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "708229133512237057",
+              "start": 3,
+              "username": "1lazydoll"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アルバム • 2025年 • 13曲 • 26分",
+              "display_url": "linkco.re/sU8NX1dG",
+              "end": 46,
+              "expanded_url": "https://linkco.re/sU8NX1dG",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2069802107885232128/-wUhVEPv?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069802107885232128/-wUhVEPv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "absence (不在) by lazydoll",
+              "unwound_url": "https://linkco.re/sU8NX1dG",
+              "url": "https://t.co/1PuwJpDScu"
+            },
+            {
+              "display_url": "pic.x.com/v2NjiTs2Zh",
+              "end": 70,
+              "expanded_url": "https://x.com/1lazydoll/status/2000944313648472220/photo/1",
+              "media_key": "3_2000944307264720896",
+              "start": 47,
+              "url": "https://t.co/v2NjiTs2Zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074173232664699206",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000944313648472220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @1lazydoll: アルバム出た\n\nhttps://t.co/1PuwJpDScu https://t.co/v2NjiTs2Zh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000944307264720896"
+          ]
+        },
+        "author_id": "708229133512237057",
+        "conversation_id": "2000944313648472220",
+        "created_at": "2025-12-16T15:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000944313648472220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "アルバム • 2025年 • 13曲 • 26分",
+              "display_url": "linkco.re/sU8NX1dG",
+              "end": 31,
+              "expanded_url": "https://linkco.re/sU8NX1dG",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2069802107885232128/-wUhVEPv?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069802107885232128/-wUhVEPv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "absence (不在) by lazydoll",
+              "unwound_url": "https://linkco.re/sU8NX1dG",
+              "url": "https://t.co/1PuwJpDScu"
+            },
+            {
+              "display_url": "pic.x.com/v2NjiTs2Zh",
+              "end": 55,
+              "expanded_url": "https://x.com/1lazydoll/status/2000944313648472220/photo/1",
+              "media_key": "3_2000944307264720896",
+              "start": 32,
+              "url": "https://t.co/v2NjiTs2Zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000944313648472220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 364,
+          "impression_count": 147627,
+          "like_count": 2493,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "アルバム出た\n\nhttps://t.co/1PuwJpDScu https://t.co/v2NjiTs2Zh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072740772819210241/eMNJx58-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 31,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-11T09:52:38.000Z",
+        "description": "",
+        "id": "708229133512237057",
+        "name": "ْ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025631666941947904/Et1CjgKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9292,
+          "following_count": 91,
+          "like_count": 594,
+          "listed_count": 30,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "1lazydoll",
+        "verified": false
+      }
+    ]
+  }
+}

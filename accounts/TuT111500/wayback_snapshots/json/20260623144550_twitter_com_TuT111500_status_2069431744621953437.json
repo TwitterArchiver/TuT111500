@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2069285438444204278",
+    "created_at": "2026-06-23T14:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069431744621953437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555601532938485760",
+          "start": 0,
+          "username": "kessy_withusagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069431744621953437",
+    "in_reply_to_user_id": "1555601532938485760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069285438444204278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kessy_withusagi 这是卖冰淇淋的吗。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069285424900784128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeUIWIawAAN1w6.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2069285438444204278",
+        "created_at": "2026-06-23T14:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069431744621953437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555601532938485760",
+              "start": 0,
+              "username": "kessy_withusagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069431744621953437",
+        "in_reply_to_user_id": "1555601532938485760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069285438444204278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kessy_withusagi 这是卖冰淇淋的吗。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069285424900784128"
+          ]
+        },
+        "author_id": "1555601532938485760",
+        "conversation_id": "2069285438444204278",
+        "created_at": "2026-06-23T05:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069285438444204278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n59G82znp6",
+              "end": 42,
+              "expanded_url": "https://x.com/kessy_withusagi/status/2069285438444204278/photo/1",
+              "media_key": "3_2069285424900784128",
+              "start": 19,
+              "url": "https://t.co/n59G82znp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069285438444204278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 394517,
+          "like_count": 1319,
+          "quote_count": 16,
+          "reply_count": 335,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "到底是什么人看到这张图会有购买欲望。 https://t.co/n59G82znp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066198202106384384/T0JkbKkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 34,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T17:08:25.000Z",
+        "description": "这是我日记本",
+        "id": "1555601532938485760",
+        "location": "Hong Kong",
+        "name": "游夜",
+        "pinned_tweet_id": "2052401417722221032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065976438738608128/nydIqyTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 114,
+          "like_count": 2699,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 1755
+        },
+        "url": "",
+        "username": "kessy_withusagi",
+        "verified": false
+      }
+    ]
+  }
+}

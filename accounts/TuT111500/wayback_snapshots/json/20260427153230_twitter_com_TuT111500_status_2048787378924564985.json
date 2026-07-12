@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048453299335208960",
+        "3_2048453299314339840"
+      ],
+      "media_source_tweet_id": [
+        "2048453307019247682",
+        "2048453307019247682"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "conversation_id": "2048787378924564985",
+    "created_at": "2026-04-27T15:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048787378924564985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1967887882384965632",
+          "start": 3,
+          "username": "111q_a54867"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NyJctoyREY",
+          "end": 56,
+          "expanded_url": "https://x.com/111q_a54867/status/2048453307019247682/photo/1",
+          "media_key": "3_2048453299335208960",
+          "start": 33,
+          "url": "https://t.co/NyJctoyREY"
+        },
+        {
+          "display_url": "pic.x.com/NyJctoyREY",
+          "end": 56,
+          "expanded_url": "https://x.com/111q_a54867/status/2048453307019247682/photo/1",
+          "media_key": "3_2048453299314339840",
+          "start": 33,
+          "url": "https://t.co/NyJctoyREY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048787378924564985",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048453307019247682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @111q_a54867: WEEPING MADONNA https://t.co/NyJctoyREY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048453299335208960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2RbC3aIAAeScM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048453299314339840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2RbCybsAAKREW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048453299335208960",
+            "3_2048453299314339840"
+          ],
+          "media_source_tweet_id": [
+            "2048453307019247682",
+            "2048453307019247682"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "conversation_id": "2048787378924564985",
+        "created_at": "2026-04-27T15:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048787378924564985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1967887882384965632",
+              "start": 3,
+              "username": "111q_a54867"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NyJctoyREY",
+              "end": 56,
+              "expanded_url": "https://x.com/111q_a54867/status/2048453307019247682/photo/1",
+              "media_key": "3_2048453299335208960",
+              "start": 33,
+              "url": "https://t.co/NyJctoyREY"
+            },
+            {
+              "display_url": "pic.x.com/NyJctoyREY",
+              "end": 56,
+              "expanded_url": "https://x.com/111q_a54867/status/2048453307019247682/photo/1",
+              "media_key": "3_2048453299314339840",
+              "start": 33,
+              "url": "https://t.co/NyJctoyREY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048787378924564985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048453307019247682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @111q_a54867: WEEPING MADONNA https://t.co/NyJctoyREY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048453299335208960",
+            "3_2048453299314339840"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2048453307019247682",
+        "created_at": "2026-04-26T17:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048453307019247682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NyJctoyREY",
+              "end": 39,
+              "expanded_url": "https://x.com/111q_a54867/status/2048453307019247682/photo/1",
+              "media_key": "3_2048453299335208960",
+              "start": 16,
+              "url": "https://t.co/NyJctoyREY"
+            },
+            {
+              "display_url": "pic.x.com/NyJctoyREY",
+              "end": 39,
+              "expanded_url": "https://x.com/111q_a54867/status/2048453307019247682/photo/1",
+              "media_key": "3_2048453299314339840",
+              "start": 16,
+              "url": "https://t.co/NyJctoyREY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048453307019247682",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2370,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "WEEPING MADONNA https://t.co/NyJctoyREY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "我爱你们",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046085496640827392/bDZpH7kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 10,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 83
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 1279,
+          "like_count": 6822,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 1367
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

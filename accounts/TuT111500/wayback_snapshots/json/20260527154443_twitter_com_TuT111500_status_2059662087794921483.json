@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2046089032107724886",
+    "created_at": "2026-05-27T15:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059662087794921483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021971016122347531",
+          "start": 0,
+          "username": "nIPcPPMWJw67258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059662087794921483",
+    "in_reply_to_user_id": "2021971016122347531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059661928285581450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nIPcPPMWJw67258 爸爸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2046089032107724886",
+        "created_at": "2026-05-27T15:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059662087794921483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021971016122347531",
+              "start": 0,
+              "username": "nIPcPPMWJw67258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059662087794921483",
+        "in_reply_to_user_id": "2021971016122347531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059661928285581450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nIPcPPMWJw67258 爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021971016122347531",
+        "conversation_id": "2046089032107724886",
+        "created_at": "2026-05-27T15:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059661928285581450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2008589299659481088",
+              "start": 0,
+              "username": "TuT111500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059661928285581450",
+        "in_reply_to_user_id": "2008589299659481088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059661432594313306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT111500 附近的哥哥d我😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 15,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 126
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T15:34:04.000Z",
+        "description": "",
+        "id": "2021971016122347531",
+        "name": "童话",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021971253457039367/Xw_s4J_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "nIPcPPMWJw67258",
+        "verified": false
+      }
+    ]
+  }
+}

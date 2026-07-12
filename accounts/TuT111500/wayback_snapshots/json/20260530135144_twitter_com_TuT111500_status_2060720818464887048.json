@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2046089032107724886",
+    "created_at": "2026-05-30T13:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060720818464887048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060713625522966528",
+          "start": 0,
+          "username": "Ruick37c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060720818464887048",
+    "in_reply_to_user_id": "2060713625522966528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060719376756842667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruick37c 来个万达广场附近的弟弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2046089032107724886",
+        "created_at": "2026-05-30T13:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060720818464887048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060713625522966528",
+              "start": 0,
+              "username": "Ruick37c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060720818464887048",
+        "in_reply_to_user_id": "2060713625522966528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060719376756842667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruick37c 来个万达广场附近的弟弟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060713625522966528",
+        "conversation_id": "2046089032107724886",
+        "created_at": "2026-05-30T13:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060719376756842667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2008589299659481088",
+              "start": 0,
+              "username": "TuT111500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060719376756842667",
+        "in_reply_to_user_id": "2008589299659481088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046089032107724886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT111500 爸爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "location": "纯绿🚪188 只回口令 ",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 17,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 142
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T13:27:59.000Z",
+        "description": "",
+        "id": "2060713625522966528",
+        "name": "Ruic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060715144456581120/4O8HuxRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Ruick37c",
+        "verified": false
+      }
+    ]
+  }
+}

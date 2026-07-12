@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2061776874909675938",
+    "created_at": "2026-06-02T11:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061776874909675938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902203819666350080",
+          "start": 3,
+          "username": "mahriposazz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061776874909675938",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061602870730936567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahriposazz: como q vcs conseguem tanto engajamento no twitter, mano? me sinto conversando com as paredes aq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2061776874909675938",
+        "created_at": "2026-06-02T11:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061776874909675938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902203819666350080",
+              "start": 3,
+              "username": "mahriposazz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061776874909675938",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061602870730936567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahriposazz: como q vcs conseguem tanto engajamento no twitter, mano? me sinto conversando com as paredes aq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902203819666350080",
+        "conversation_id": "2061602870730936567",
+        "created_at": "2026-06-02T00:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061602870730936567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061602870730936567",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 44805,
+          "like_count": 1218,
+          "quote_count": 18,
+          "reply_count": 136,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "como q vcs conseguem tanto engajamento no twitter, mano? me sinto conversando com as paredes aq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "纯绿🚪88只回口令",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 20,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 165
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T03:42:34.000Z",
+        "description": "✩ @BTS_bighit ✦˙ | 𝟐𝟎𝟎𝟖 | • army ☆ engene",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "BTS_bighit"
+              }
+            ]
+          }
+        },
+        "id": "1902203819666350080",
+        "location": "7 = 🏠",
+        "name": "𝐌arirang⁷៹ jiminista ☆",
+        "pinned_tweet_id": "2061602870730936567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061227700744818689/-MP7QbAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 173,
+          "like_count": 4111,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1631
+        },
+        "username": "mahriposazz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2015615669291856176",
+    "created_at": "2026-01-26T02:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T03:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015615669291856176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1989365397116817408",
+          "start": 3,
+          "username": "Again_971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015615669291856176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014965201964343519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Again_971: 和你牵手是什么感觉？和你拥抱是什么感觉？和你并肩走在路上是什么感觉？和你一起大笑是什么感觉？靠在你怀里是什么感觉？你的指尖在聊天框另一头是什么感觉？你的ID在我主页是什么感觉？耳机另一半在你那里是什么感觉？餐桌对面坐着一个你是什么感觉？我在你镜头里…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2015615669291856176",
+        "created_at": "2026-01-26T02:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015615669291856176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989365397116817408",
+              "start": 3,
+              "username": "Again_971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015615669291856176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014965201964343519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Again_971: 和你牵手是什么感觉？和你拥抱是什么感觉？和你并肩走在路上是什么感觉？和你一起大笑是什么感觉？靠在你怀里是什么感觉？你的指尖在聊天框另一头是什么感觉？你的ID在我主页是什么感觉？耳机另一半在你那里是什么感觉？餐桌对面坐着一个你是什么感觉？我在你镜头里…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989365397116817408",
+        "conversation_id": "2014965201964343519",
+        "created_at": "2026-01-24T07:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014965201964343519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014965201964343519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 37892,
+          "like_count": 1192,
+          "quote_count": 12,
+          "reply_count": 9,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "和你牵手是什么感觉？和你拥抱是什么感觉？和你并肩走在路上是什么感觉？和你一起大笑是什么感觉？靠在你怀里是什么感觉？你的指尖在聊天框另一头是什么感觉？你的ID在我主页是什么感觉？耳机另一半在你那里是什么感觉？餐桌对面坐着一个你是什么感觉？我在你镜头里是什么感觉？我在你心里是什么感觉？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "🚪zfb口令52/88/188无上限 喜欢我可以给我转钱^ ^",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010421514244415488/qbFQ4Mz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 21
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T16:11:02.000Z",
+        "description": "女同。本人与照片不符。一张照片一个人。男的别私信别关注别评论。最好是滚开。/垃圾桶 @Affair0910_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Affair0910_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suhuiiiii_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/suhuiiiii_",
+                "start": 0,
+                "url": "https://t.co/VjHTp666Af"
+              }
+            ]
+          }
+        },
+        "id": "1989365397116817408",
+        "name": "Again_",
+        "pinned_tweet_id": "1992534690205778280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004499015409557504/Er47UX02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 112,
+          "like_count": 2926,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/VjHTp666Af",
+        "username": "Again_971",
+        "verified": false
+      }
+    ]
+  }
+}

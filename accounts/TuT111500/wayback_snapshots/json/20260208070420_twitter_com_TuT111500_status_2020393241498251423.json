@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2020357683069534451",
+    "created_at": "2026-02-08T07:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T08:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020393241498251423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009594484989026307",
+          "start": 0,
+          "username": "XiuJingDe953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020393241498251423",
+    "in_reply_to_user_id": "2009594484989026307",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020357683069534451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiuJingDe953 啊啊啊啊啊啊是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2020357683069534451",
+        "created_at": "2026-02-08T07:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020393241498251423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009594484989026307",
+              "start": 0,
+              "username": "XiuJingDe953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020393241498251423",
+        "in_reply_to_user_id": "2009594484989026307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020357683069534451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe953 啊啊啊啊啊啊是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009594484989026307",
+        "conversation_id": "2020357683069534451",
+        "created_at": "2026-02-08T04:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T05:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020357683069534451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020357683069534451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3369,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉你是那种发现千问一分钱可以买奶茶赶忙用自己两个手机号分别注册各喝一杯然后再用父母手机注册并且加上邀请码再白嫖四五杯的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "喜欢我就多给我点钱让我生活更好",
+        "id": "2008589299659481088",
+        "location": "🚪zfb口令52/188",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010421514244415488/qbFQ4Mz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 49
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T11:54:09.000Z",
+        "description": "这是我的内脏",
+        "id": "2009594484989026307",
+        "location": "网络世界",
+        "name": "修靖德",
+        "pinned_tweet_id": "2009597299635446139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016005313074192384/9y9kfA1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 80,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 182
+        },
+        "username": "XiuJingDe953",
+        "verified": false
+      }
+    ]
+  }
+}

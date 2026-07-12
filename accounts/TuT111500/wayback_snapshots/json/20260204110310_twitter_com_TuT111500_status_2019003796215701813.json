@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018896053484089345"
+      ],
+      "media_source_tweet_id": [
+        "2018896061713297601"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "conversation_id": "2019003796215701813",
+    "created_at": "2026-02-04T11:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T12:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019003796215701813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699421377520951296",
+          "start": 3,
+          "username": "Maorou_K8M"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/umGnadem8z",
+          "end": 43,
+          "expanded_url": "https://x.com/Maorou_K8M/status/2018896061713297601/photo/1",
+          "media_key": "3_2018896053484089345",
+          "start": 20,
+          "url": "https://t.co/umGnadem8z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019003796215701813",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018896061713297601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maorou_K8M: 🤍婚紗 https://t.co/umGnadem8z"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2019003796215701813].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2019003796215701813",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2019003796215701813"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018896053484089345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASPQ5pbcAEIzPU.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018896053484089345"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "2018896061713297601",
+        "created_at": "2026-02-04T03:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018896061713297601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umGnadem8z",
+              "end": 27,
+              "expanded_url": "https://x.com/Maorou_K8M/status/2018896061713297601/photo/1",
+              "media_key": "3_2018896053484089345",
+              "start": 4,
+              "url": "https://t.co/umGnadem8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018896061713297601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 15239,
+          "like_count": 1144,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "🤍婚紗 https://t.co/umGnadem8z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "🚪zfb口令52/88/188无上限 喜欢我可以给我转钱^ ^",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010421514244415488/qbFQ4Mz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 35
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "本人只有这一个账号！！其他均为骗子， 请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪998zfb口令红包带姓 私信只回复门槛💗只接绿色线下陪玩 一日女友～～～～本人只玩X/ins 除了此账号 其他账号开通任何需要付费链接都是骗子！！不玩抖音等软件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/maorou_k8m",
+                "end": 23,
+                "expanded_url": "https://link.me/maorou_k8m",
+                "start": 0,
+                "url": "https://t.co/bvlwJ8SJKp"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "所有本人账户在这里→",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1860308396878233852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005527085700534272/SO1uhKhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262577,
+          "following_count": 45,
+          "like_count": 547,
+          "listed_count": 677,
+          "media_count": 562,
+          "tweet_count": 3660
+        },
+        "url": "https://t.co/bvlwJ8SJKp",
+        "username": "Maorou_K8M",
+        "verified": true
+      }
+    ]
+  }
+}

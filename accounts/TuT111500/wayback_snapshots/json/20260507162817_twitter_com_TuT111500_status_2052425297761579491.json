@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2046856557900759305",
+    "created_at": "2026-05-07T16:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052425297761579491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1953502653679288320",
+          "start": 0,
+          "username": "kainan_wu87672"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052425297761579491",
+    "in_reply_to_user_id": "1953502653679288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046856557900759305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kainan_wu87672 有没有人和我一样喜欢撸自己的大鸡鸡呀？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2046856557900759305",
+        "created_at": "2026-05-07T16:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052425297761579491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1953502653679288320",
+              "start": 0,
+              "username": "kainan_wu87672"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052425297761579491",
+        "in_reply_to_user_id": "1953502653679288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046856557900759305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kainan_wu87672 有没有人和我一样喜欢撸自己的大鸡鸡呀？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953502653679288320",
+        "conversation_id": "2046856557900759305",
+        "created_at": "2026-04-22T07:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046856557900759305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046856557900759305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 793,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人和我一样喜欢撸自己的小鸡鸡呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046085496640827392/bDZpH7kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 13,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 98
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T17:05:14.000Z",
+        "description": "",
+        "id": "1953502653679288320",
+        "name": "鸡巴张",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051311398119227392/Xee94KLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 64,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 199
+        },
+        "username": "kainan_wu87672",
+        "verified": false
+      }
+    ]
+  }
+}

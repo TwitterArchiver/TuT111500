@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2029930769737732460",
+    "created_at": "2026-03-06T14:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T15:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029930769737732460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1625206752773029889",
+          "start": 3,
+          "username": "chezaimian30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029930769737732460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029519884343025797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chezaimian30: 总有墙内的男的好像发现你推特跟发现你拍黄片了一样 顶个猪脸一脸淫笑的“我搜到你推特了” 所以呢？所以呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2029930769737732460",
+        "created_at": "2026-03-06T14:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029930769737732460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1625206752773029889",
+              "start": 3,
+              "username": "chezaimian30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029930769737732460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029519884343025797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chezaimian30: 总有墙内的男的好像发现你推特跟发现你拍黄片了一样 顶个猪脸一脸淫笑的“我搜到你推特了” 所以呢？所以呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625206752773029889",
+        "conversation_id": "2029519884343025797",
+        "created_at": "2026-03-05T11:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T12:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029519884343025797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029519884343025797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 119409,
+          "like_count": 1282,
+          "quote_count": 3,
+          "reply_count": 88,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "总有墙内的男的好像发现你推特跟发现你拍黄片了一样 顶个猪脸一脸淫笑的“我搜到你推特了” 所以呢？所以呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "喜欢我就多给我点钱让我生活更好",
+        "id": "2008589299659481088",
+        "location": "🚪纯绿zfb口令52/188",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010421514244415488/qbFQ4Mz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 42
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T18:54:27.000Z",
+        "description": "",
+        "id": "1625206752773029889",
+        "location": "London, England",
+        "name": "小尾狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931946369253376/458sKcTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3727,
+          "following_count": 376,
+          "like_count": 4133,
+          "listed_count": 5,
+          "media_count": 111,
+          "tweet_count": 1523
+        },
+        "username": "chezaimian30",
+        "verified": false
+      }
+    ]
+  }
+}

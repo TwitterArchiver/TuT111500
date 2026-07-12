@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2066451181673804251",
+    "created_at": "2026-06-15T09:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066451181673804251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1675444856288870401",
+          "start": 3,
+          "username": "Maedarikuonly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066451181673804251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066209725491122507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maedarikuonly1: 毛主席您来看一下中国人是怎么欺负我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2066451181673804251",
+        "created_at": "2026-06-15T09:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066451181673804251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1675444856288870401",
+              "start": 3,
+              "username": "Maedarikuonly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066451181673804251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066209725491122507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maedarikuonly1: 毛主席您来看一下中国人是怎么欺负我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675444856288870401",
+        "conversation_id": "2066209725491122507",
+        "created_at": "2026-06-14T17:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066209725491122507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066209725491122507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9234,
+          "like_count": 187,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "毛主席您来看一下中国人是怎么欺负我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066198202106384384/T0JkbKkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 33,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 180
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 223,
+          "like_count": 3174,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1040
+        },
+        "username": "Maedarikuonly1",
+        "verified": false
+      }
+    ]
+  }
+}

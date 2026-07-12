@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058974794083860480"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058974845480935617",
+    "created_at": "2026-05-25T18:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058974845480935617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iQP2Egt5P5",
+          "end": 28,
+          "expanded_url": "https://x.com/TuT111500/status/2058974845480935617/photo/1",
+          "media_key": "3_2058974794083860480",
+          "start": 5,
+          "url": "https://t.co/iQP2Egt5P5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058974845480935617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太可爱了 https://t.co/iQP2Egt5P5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058974794083860480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLyqpLaAAAMtgp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058974794083860480"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058974845480935617",
+        "created_at": "2026-05-25T18:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058974845480935617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQP2Egt5P5",
+              "end": 28,
+              "expanded_url": "https://x.com/TuT111500/status/2058974845480935617/photo/1",
+              "media_key": "3_2058974794083860480",
+              "start": 5,
+              "url": "https://t.co/iQP2Egt5P5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058974845480935617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太可爱了 https://t.co/iQP2Egt5P5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046085496640827392/bDZpH7kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 10,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 108
+        },
+        "username": "TuT111500",
+        "verified": false
+      }
+    ]
+  }
+}

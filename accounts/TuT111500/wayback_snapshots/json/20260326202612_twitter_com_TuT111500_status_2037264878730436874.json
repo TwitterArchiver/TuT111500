@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2037059084709765587",
+    "created_at": "2026-03-26T20:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T21:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037264878730436874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799331977205796864",
+          "start": 0,
+          "username": "Xxxxx62778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037264878730436874",
+    "in_reply_to_user_id": "1799331977205796864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037059084709765587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxx62778 好棒！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2911,
+        "media_key": "3_2037058902739795968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUWR3xaQAAujOr.jpg",
+        "width": 2911
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2037058969718710275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUWVxSbYAMm4IT.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2037059084709765587",
+        "created_at": "2026-03-26T20:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T21:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037264878730436874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799331977205796864",
+              "start": 0,
+              "username": "Xxxxx62778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037264878730436874",
+        "in_reply_to_user_id": "1799331977205796864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037059084709765587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxx62778 好棒！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037058902739795968",
+            "3_2037058969718710275"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "conversation_id": "2037059084709765587",
+        "created_at": "2026-03-26T06:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037059084709765587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZmYW9livBv",
+              "end": 41,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2037059084709765587/photo/1",
+              "media_key": "3_2037058902739795968",
+              "start": 18,
+              "url": "https://t.co/ZmYW9livBv"
+            },
+            {
+              "display_url": "pic.x.com/ZmYW9livBv",
+              "end": 41,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2037059084709765587/photo/1",
+              "media_key": "3_2037058969718710275",
+              "start": 18,
+              "url": "https://t.co/ZmYW9livBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037059084709765587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8961,
+          "like_count": 287,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卖废品忙一天了，给妈妈下鸡蛋面吃！ https://t.co/ZmYW9livBv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "喜欢我就多给我点钱让我生活更好",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036846368636153856/rXAdJUpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 6,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 47
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2031628371965390951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3321,
+          "following_count": 38,
+          "like_count": 44610,
+          "listed_count": 3,
+          "media_count": 4654,
+          "tweet_count": 17880
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

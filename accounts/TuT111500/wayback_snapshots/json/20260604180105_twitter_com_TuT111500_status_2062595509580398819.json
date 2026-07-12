@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2062477622622474473",
+    "created_at": "2026-06-04T18:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062595509580398819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1913160251551227904",
+          "start": 0,
+          "username": "ustgr6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062595509580398819",
+    "in_reply_to_user_id": "1913160251551227904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062477622622474473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ustgr6 无敌好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2062477622622474473",
+        "created_at": "2026-06-04T18:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062595509580398819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1913160251551227904",
+              "start": 0,
+              "username": "ustgr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062595509580398819",
+        "in_reply_to_user_id": "1913160251551227904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062477622622474473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ustgr6 无敌好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913160251551227904",
+        "conversation_id": "2062477622622474473",
+        "created_at": "2026-06-04T10:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062477622622474473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062477622622474473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6554,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 97,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "茶百道的荔枝冰奶好喝吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "纯绿🚪88只回口令",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 28,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 174
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T09:19:07.000Z",
+        "description": "惹我的出门摔进粪坑\n不加v 只和喜欢的互关\n除了简介其他的话都不要信\nsw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ineedahug75835",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ineedahug75835",
+                "start": 0,
+                "url": "https://t.co/W0GgiQAFhE"
+              }
+            ]
+          }
+        },
+        "id": "1913160251551227904",
+        "location": "南极",
+        "name": "Z",
+        "pinned_tweet_id": "2058448348471005249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058206641322127360/W4IxR4ZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 670,
+          "like_count": 16184,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/W0GgiQAFhE",
+        "username": "ustgr6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059634542437367808"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "conversation_id": "2059634550901490075",
+    "created_at": "2026-05-27T13:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059634550901490075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xZf720L3MK",
+          "end": 32,
+          "expanded_url": "https://x.com/TuT111500/status/2059634550901490075/photo/1",
+          "media_key": "3_2059634542437367808",
+          "start": 9,
+          "url": "https://t.co/xZf720L3MK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059634550901490075",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全世界最好的男孩 https://t.co/xZf720L3MK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059634542437367808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVKtDUagAAqbZ4.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059634542437367808"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "conversation_id": "2059634550901490075",
+        "created_at": "2026-05-27T13:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059634550901490075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZf720L3MK",
+              "end": 32,
+              "expanded_url": "https://x.com/TuT111500/status/2059634550901490075/photo/1",
+              "media_key": "3_2059634542437367808",
+              "start": 9,
+              "url": "https://t.co/xZf720L3MK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059634550901490075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全世界最好的男孩 https://t.co/xZf720L3MK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 10,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 122
+        },
+        "username": "TuT111500",
+        "verified": false
+      }
+    ]
+  }
+}

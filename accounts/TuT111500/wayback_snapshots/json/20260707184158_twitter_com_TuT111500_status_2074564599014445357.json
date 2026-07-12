@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2074564599014445357",
+    "created_at": "2026-07-07T18:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T19:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074564599014445357"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074564599014445357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前的暧昧对象操未成年进去了aa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2074564599014445357",
+        "created_at": "2026-07-07T18:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074564599014445357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074564599014445357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前的暧昧对象操未成年进去了aa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072740772819210241/eMNJx58-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 32,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      }
+    ]
+  }
+}

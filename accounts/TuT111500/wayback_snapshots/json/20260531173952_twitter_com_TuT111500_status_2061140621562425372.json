@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2061119907534885160",
+    "created_at": "2026-05-31T17:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061140621562425372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060713625522966528",
+          "start": 0,
+          "username": "Ruick37c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061140621562425372",
+    "in_reply_to_user_id": "2060713625522966528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061140518675923397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruick37c 瑞瑞主人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2061119907534885160",
+        "created_at": "2026-05-31T17:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061140621562425372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060713625522966528",
+              "start": 0,
+              "username": "Ruick37c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061140621562425372",
+        "in_reply_to_user_id": "2060713625522966528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061140518675923397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruick37c 瑞瑞主人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060713625522966528",
+        "conversation_id": "2061119907534885160",
+        "created_at": "2026-05-31T17:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061140518675923397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2008589299659481088",
+              "start": 0,
+              "username": "TuT111500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061140518675923397",
+        "in_reply_to_user_id": "2008589299659481088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061119907534885160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT111500 六月和我的🐶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "纯绿🚪88只回口令",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 17,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 158
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T13:27:59.000Z",
+        "description": "唉",
+        "id": "2060713625522966528",
+        "location": "🚪88 只回复口令 纯绿谢谢",
+        "name": "Ruic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060891355497525248/HTJ4BNYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "Ruick37c",
+        "verified": false
+      }
+    ]
+  }
+}

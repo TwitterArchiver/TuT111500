@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059628256568242176"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "conversation_id": "2059628268198973656",
+    "created_at": "2026-05-27T13:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059628268198973656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t70A8xHwLO",
+          "end": 27,
+          "expanded_url": "https://x.com/TuT111500/status/2059628268198973656/photo/1",
+          "media_key": "3_2059628256568242176",
+          "start": 4,
+          "url": "https://t.co/t70A8xHwLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059628268198973656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我心情 https://t.co/t70A8xHwLO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2059628256568242176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVE_KobcAAVka3.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059628256568242176"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "conversation_id": "2059628268198973656",
+        "created_at": "2026-05-27T13:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059628268198973656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t70A8xHwLO",
+              "end": 27,
+              "expanded_url": "https://x.com/TuT111500/status/2059628268198973656/photo/1",
+              "media_key": "3_2059628256568242176",
+              "start": 4,
+              "url": "https://t.co/t70A8xHwLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059628268198973656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我心情 https://t.co/t70A8xHwLO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "好讨厌人类啊",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 10,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 117
+        },
+        "username": "TuT111500",
+        "verified": false
+      }
+    ]
+  }
+}

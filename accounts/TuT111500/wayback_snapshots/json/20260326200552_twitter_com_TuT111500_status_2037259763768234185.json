@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2037091257273794639",
+    "created_at": "2026-03-26T20:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T21:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037259763768234185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1941398737840111623",
+          "start": 0,
+          "username": "songbansha6606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037259763768234185",
+    "in_reply_to_user_id": "1941398737840111623",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037091257273794639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@songbansha6606 越看越想哭..好像我的家庭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 101000,
+        "height": 1280,
+        "media_key": "13_2037091033641869315",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037091033641869315/img/MDIMYAlmU3tjiW2D.jpg",
+        "public_metrics": {
+          "view_count": 197084
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/vid/avc1/320x568/FT5iUpUejENhgSNK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/vid/avc1/480x852/Qcg_r--hvNCrHlP5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/vid/avc1/720x1280/Tp7O_aneCOKmJT8H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/pl/Yse89js44M7r4g39.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2037091257273794639",
+        "created_at": "2026-03-26T20:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T21:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037259763768234185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1941398737840111623",
+              "start": 0,
+              "username": "songbansha6606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037259763768234185",
+        "in_reply_to_user_id": "1941398737840111623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037091257273794639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@songbansha6606 越看越想哭..好像我的家庭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037091033641869315"
+          ]
+        },
+        "author_id": "1941398737840111623",
+        "conversation_id": "2037091257273794639",
+        "created_at": "2026-03-26T08:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037091257273794639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WupUa3DRpy",
+              "end": 35,
+              "expanded_url": "https://x.com/songbansha6606/status/2037091257273794639/video/1",
+              "media_key": "13_2037091033641869315",
+              "start": 12,
+              "url": "https://t.co/WupUa3DRpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037091257273794639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 666,
+          "impression_count": 181254,
+          "like_count": 2651,
+          "quote_count": 20,
+          "reply_count": 302,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "磕药就是吸毒（超大声） https://t.co/WupUa3DRpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "喜欢我就多给我点钱让我生活更好",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036846368636153856/rXAdJUpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 6,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 46
+        },
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T07:28:40.000Z",
+        "description": "@looolzaozimin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "looolzaozimin"
+              }
+            ]
+          }
+        },
+        "id": "1941398737840111623",
+        "location": "門288",
+        "name": "我胃里面的蝴蝶",
+        "pinned_tweet_id": "2008363022130004474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034199943750225920/R1TG0Deb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 19,
+          "like_count": 146,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 86
+        },
+        "username": "songbansha6606",
+        "verified": false
+      }
+    ]
+  }
+}

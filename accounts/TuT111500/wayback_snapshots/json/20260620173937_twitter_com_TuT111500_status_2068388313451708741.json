@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2068388313451708741",
+    "created_at": "2026-06-20T17:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068388313451708741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1620784370041716740",
+          "start": 3,
+          "username": "Hzjiahshsenrt"
+        },
+        {
+          "end": 28,
+          "id": "1787149306740510720",
+          "start": 19,
+          "username": "freeindx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068388313451708741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068308478557663474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hzjiahshsenrt: @freeindx 这种人就是死妈啊 人家有人家的痛苦 伤害自己和你们有鸡毛关系 天天揭别人伤口 健全人长了张嘴就他妈四处喷屎以为全世界都和他爸妈一样给他们让路😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2068388313451708741",
+        "created_at": "2026-06-20T17:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068388313451708741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1620784370041716740",
+              "start": 3,
+              "username": "Hzjiahshsenrt"
+            },
+            {
+              "end": 28,
+              "id": "1787149306740510720",
+              "start": 19,
+              "username": "freeindx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068388313451708741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068308478557663474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hzjiahshsenrt: @freeindx 这种人就是死妈啊 人家有人家的痛苦 伤害自己和你们有鸡毛关系 天天揭别人伤口 健全人长了张嘴就他妈四处喷屎以为全世界都和他爸妈一样给他们让路😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620784370041716740",
+        "conversation_id": "2068210171206312142",
+        "created_at": "2026-06-20T12:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068308478557663474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1787149306740510720",
+              "start": 0,
+              "username": "freeindx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068308478557663474",
+        "in_reply_to_user_id": "1787149306740510720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1549,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068210171206312142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freeindx 这种人就是死妈啊 人家有人家的痛苦 伤害自己和你们有鸡毛关系 天天揭别人伤口 健全人长了张嘴就他妈四处喷屎以为全世界都和他爸妈一样给他们让路😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066198202106384384/T0JkbKkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 33,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T14:01:29.000Z",
+        "description": "爱上一个天使的缺点",
+        "id": "1620784370041716740",
+        "location": "佛罗伦萨",
+        "name": "在你面前割开我的颈动脉",
+        "pinned_tweet_id": "1803430243190898876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062866620956262401/qoMdvb9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 134,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "Hzjiahshsenrt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T15:56:21.000Z",
+        "description": "🚪188r",
+        "id": "1787149306740510720",
+        "name": "杨静萍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061474767157575680/f0WrDFXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 817,
+          "like_count": 7447,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 3483
+        },
+        "url": "",
+        "username": "freeindx",
+        "verified": false
+      }
+    ]
+  }
+}

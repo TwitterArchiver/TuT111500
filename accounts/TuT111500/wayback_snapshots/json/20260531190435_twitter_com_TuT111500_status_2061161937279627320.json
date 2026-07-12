@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2061161937279627320",
+    "created_at": "2026-05-31T19:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T20:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061161937279627320"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061161937279627320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求你了阿姨，把你女儿嫁给我吧，虽然我没有工资没有房子，但我是od皇帝，你的女儿跟我结婚了，我保证她可以吃到免费右美普瑞巴林金刚愈美片，和我在一起我会保证她幸福一辈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2061161937279627320",
+        "created_at": "2026-05-31T19:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061161937279627320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061161937279627320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求你了阿姨，把你女儿嫁给我吧，虽然我没有工资没有房子，但我是od皇帝，你的女儿跟我结婚了，我保证她可以吃到免费右美普瑞巴林金刚愈美片，和我在一起我会保证她幸福一辈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "纯绿🚪88只回口令",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059352790187868160/BGNdqPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 19,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 164
+        },
+        "username": "TuT111500",
+        "verified": false
+      }
+    ]
+  }
+}
