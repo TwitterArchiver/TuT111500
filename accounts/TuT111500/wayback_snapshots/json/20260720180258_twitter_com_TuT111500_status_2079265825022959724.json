@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2079037902651072699",
+    "created_at": "2026-07-20T18:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079265825022959724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1974745227681501184",
+          "start": 0,
+          "username": "yu_kiii27"
+        },
+        {
+          "end": 21,
+          "id": "1944679199358570496",
+          "start": 11,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079265825022959724",
+    "in_reply_to_user_id": "1974745227681501184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079097859807346857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_kiii27 @0kada_Mi0 没错！一直有人自己身上穿着复刻说bodyline是鸡牌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2079037902651072699",
+        "created_at": "2026-07-20T18:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079265825022959724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1974745227681501184",
+              "start": 0,
+              "username": "yu_kiii27"
+            },
+            {
+              "end": 21,
+              "id": "1944679199358570496",
+              "start": 11,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079265825022959724",
+        "in_reply_to_user_id": "1974745227681501184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079097859807346857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_kiii27 @0kada_Mi0 没错！一直有人自己身上穿着复刻说bodyline是鸡牌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974745227681501184",
+        "conversation_id": "2079037902651072699",
+        "created_at": "2026-07-20T06:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079097859807346857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079097859807346857",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1066,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079037902651072699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 bodyline之前也被人出警 抖人坏死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072740772819210241/eMNJx58-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 30,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T07:55:47.000Z",
+        "description": "宝宝们 你们来找我聊天呗 \n我这个是个人推 发着玩 不要攻击俺 我很脆弱",
+        "id": "1974745227681501184",
+        "name": "yu ki ii",
+        "pinned_tweet_id": "2075579502562853001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075570253237493760/DIdPrcWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 59,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "yu_kiii27",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "miovo",
+        "pinned_tweet_id": "2011472330870907217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 239,
+          "like_count": 20019,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 3551
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

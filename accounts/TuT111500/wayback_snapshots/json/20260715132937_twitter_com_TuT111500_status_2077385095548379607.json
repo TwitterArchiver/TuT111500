@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2077377701812351034",
+    "created_at": "2026-07-15T13:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077385095548379607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995929856723615744",
+          "start": 0,
+          "username": "Navira1449585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077385095548379607",
+    "in_reply_to_user_id": "1995929856723615744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077377701812351034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Navira1449585 孩子你是不是想开普瑞巴林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2077377701812351034",
+        "created_at": "2026-07-15T13:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077385095548379607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995929856723615744",
+              "start": 0,
+              "username": "Navira1449585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077385095548379607",
+        "in_reply_to_user_id": "1995929856723615744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077377701812351034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Navira1449585 孩子你是不是想开普瑞巴林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995929856723615744",
+        "conversation_id": "2077377701812351034",
+        "created_at": "2026-07-15T13:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077377701812351034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077377701812351034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生我神经痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072740772819210241/eMNJx58-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 32,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T18:55:44.000Z",
+        "description": "＝毛线\n不登校｜intp｜11｜查成分互fo\n💊｜🚬｜🍻｜智商低情商为负orz\n匿名提问箱https://t.co/xS5wT1S99f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/navira26904",
+                "end": 68,
+                "expanded_url": "https://ngl.link/navira26904",
+                "start": 45,
+                "url": "https://t.co/xS5wT1S99f"
+              }
+            ]
+          }
+        },
+        "id": "1995929856723615744",
+        "name": "毛线咪",
+        "pinned_tweet_id": "2065069580725440747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008468373693136896/6f5DcANP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 189,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "Navira1449585",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2077458026051891350",
+    "created_at": "2026-07-15T18:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T19:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077458026051891350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1579442033483075584",
+          "start": 3,
+          "username": "26suversider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077458026051891350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076794438802661545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @26suversider: 小的时候觉得吸毒的人都好可怕，长大了发现大家只是因为太痛苦了所以要吸毒维持生命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2077458026051891350",
+        "created_at": "2026-07-15T18:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077458026051891350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1579442033483075584",
+              "start": 3,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077458026051891350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076794438802661545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @26suversider: 小的时候觉得吸毒的人都好可怕，长大了发现大家只是因为太痛苦了所以要吸毒维持生命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579442033483075584",
+        "conversation_id": "2076794438802661545",
+        "created_at": "2026-07-13T22:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076794438802661545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076794438802661545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13095,
+          "like_count": 281,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 29
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "小的时候觉得吸毒的人都好可怕，长大了发现大家只是因为太痛苦了所以要吸毒维持生命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072740772819210241/eMNJx58-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 31,
+          "like_count": 542,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bRRAIqGEOS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sukieu1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sukieu1",
+                "start": 21,
+                "url": "https://t.co/bRRAIqGEOS"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 133,
+          "like_count": 934,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1039
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}
