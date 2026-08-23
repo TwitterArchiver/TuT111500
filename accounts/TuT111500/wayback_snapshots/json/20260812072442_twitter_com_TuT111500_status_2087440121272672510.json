@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078305892202917888"
+      ],
+      "media_source_tweet_id": [
+        "2078306056065925377"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087440121272672510",
+    "created_at": "2026-08-12T07:24:42.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T08:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087440121272672510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "708229133512237057",
+          "start": 3,
+          "username": "1lazydoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UtKSB3Zrfb",
+          "end": 38,
+          "expanded_url": "https://x.com/1lazydoll/status/2078306056065925377/video/1",
+          "media_key": "13_2078305892202917888",
+          "start": 15,
+          "url": "https://t.co/UtKSB3Zrfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087440121272672510",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2078305892202917888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078306056065925377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @1lazydoll: https://t.co/UtKSB3Zrfb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76266,
+        "height": 480,
+        "media_key": "13_2078305892202917888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078305892202917888/img/9W5MhjCsOctiTppy.jpg",
+        "public_metrics": {
+          "view_count": 8093
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078305892202917888/vid/avc1/360x270/g6zuMkTpcS5ZuIZG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078305892202917888/vid/avc1/480x360/nOWpWFsOKV7F4_oO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078305892202917888/vid/avc1/640x480/9vLiABAu8ovQzDUd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078305892202917888/pl/bQswniwsbX61gsWW.m3u8?v=709"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078305892202917888"
+          ]
+        },
+        "author_id": "708229133512237057",
+        "conversation_id": "2078306056065925377",
+        "created_at": "2026-07-18T02:29:11.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078306056065925377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtKSB3Zrfb",
+              "end": 23,
+              "expanded_url": "https://x.com/1lazydoll/status/2078306056065925377/video/1",
+              "media_key": "13_2078305892202917888",
+              "start": 0,
+              "url": "https://t.co/UtKSB3Zrfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078306056065925377",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2078305892202917888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 30272,
+          "like_count": 1156,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/UtKSB3Zrfb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078305892202917888"
+          ],
+          "media_source_tweet_id": [
+            "2078306056065925377"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087440121272672510",
+        "created_at": "2026-08-12T07:24:42.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087440121272672510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "708229133512237057",
+              "start": 3,
+              "username": "1lazydoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtKSB3Zrfb",
+              "end": 38,
+              "expanded_url": "https://x.com/1lazydoll/status/2078306056065925377/video/1",
+              "media_key": "13_2078305892202917888",
+              "start": 15,
+              "url": "https://t.co/UtKSB3Zrfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087440121272672510",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2078305892202917888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078306056065925377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @1lazydoll: https://t.co/UtKSB3Zrfb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087440121272672510",
+        "name": "人类",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008589299659481088/1781298081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072740772819210241/eMNJx58-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 32,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-11T09:52:38.000Z",
+        "description": "",
+        "id": "708229133512237057",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2078306056065925377",
+        "name": "ْ",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025631666941947904/Et1CjgKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9517,
+          "following_count": 93,
+          "like_count": 601,
+          "listed_count": 30,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "1lazydoll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

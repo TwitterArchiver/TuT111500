@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008589299659481088",
+    "conversation_id": "2087198844769775728",
+    "created_at": "2026-08-13T01:22:03.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087711248029011993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083608195587874816",
+          "start": 0,
+          "username": "OuOshize666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087711248029011993",
+    "in_reply_to_user_id": "2083608195587874816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087198844769775728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuOshize666 特朗普这招太狠了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008589299659481088",
+        "conversation_id": "2087198844769775728",
+        "created_at": "2026-08-13T01:22:03.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087711248029011993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083608195587874816",
+              "start": 0,
+              "username": "OuOshize666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087711248029011993",
+        "in_reply_to_user_id": "2083608195587874816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087198844769775728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuOshize666 特朗普这招太狠了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083608195587874816",
+        "conversation_id": "2087198844769775728",
+        "created_at": "2026-08-11T15:25:57.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087198844769775728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087198844769775728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气死我了气死我了疑似特朗普看到我能玩TikTok破防了，我现在又玩不上了气死我了，明明什么都搞好了刷了半天了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087711248029011993",
+        "name": "人类",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008589299659481088/1781298081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072740772819210241/eMNJx58-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 32,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T17:39:00.000Z",
+        "description": "我非常善良呀欢迎找我玩\n神聖かまってちゃん最高！\n匿名问答@OuOshizego\n老婆妈妈杯子宝宝狗@Qiuhuiiv3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "OuOshizego"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Qiuhuiiv3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ouoshizego",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ouoshizego",
+                "start": 0,
+                "url": "https://t.co/mOB1u9Z6WO"
+              }
+            ]
+          }
+        },
+        "id": "2083608195587874816",
+        "is_identity_verified": false,
+        "location": "都灵街",
+        "most_recent_tweet_id": "2087619219009716343",
+        "name": "矢澤源義二代目",
+        "pinned_tweet_id": "2083997953522536900",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083608195587874816/1785609860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083608603790094336/PkF9T3wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 97,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/mOB1u9Z6WO",
+        "username": "OuOshize666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085565555453628416"
+      ]
+    },
+    "author_id": "2008589299659481088",
+    "conversation_id": "2085565572675502153",
+    "created_at": "2026-08-07T03:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085565572675502153"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 0,
+          "tag": "あまいろショコラータ"
+        },
+        {
+          "end": 20,
+          "start": 12,
+          "tag": "ゆきむらちえり"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ghkhMvjdn5",
+          "end": 44,
+          "expanded_url": "https://x.com/TuT111500/status/2085565572675502153/photo/1",
+          "media_key": "3_2085565555453628416",
+          "start": 21,
+          "url": "https://t.co/ghkhMvjdn5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085565572675502153",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#あまいろショコラータ #ゆきむらちえり https://t.co/ghkhMvjdn5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085565555453628416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFq0qiakAAkBJ4.jpg",
+        "width": 1570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085565555453628416"
+          ]
+        },
+        "author_id": "2008589299659481088",
+        "conversation_id": "2085565572675502153",
+        "created_at": "2026-08-07T03:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085565572675502153"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "あまいろショコラータ"
+            },
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "ゆきむらちえり"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghkhMvjdn5",
+              "end": 44,
+              "expanded_url": "https://x.com/TuT111500/status/2085565572675502153/photo/1",
+              "media_key": "3_2085565555453628416",
+              "start": 21,
+              "url": "https://t.co/ghkhMvjdn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085565572675502153",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#あまいろショコラータ #ゆきむらちえり https://t.co/ghkhMvjdn5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T17:19:51.000Z",
+        "description": "",
+        "id": "2008589299659481088",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072740772819210241/eMNJx58-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 28,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "TuT111500",
+        "verified": false
+      }
+    ]
+  }
+}
